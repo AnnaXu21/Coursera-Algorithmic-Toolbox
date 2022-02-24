@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 24 18:20:55 2022
-
-@author: Mengxin
-"""
+# python 3
 
 # faster method
 def max_product_fast(numbers):
