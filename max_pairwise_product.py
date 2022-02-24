@@ -25,10 +25,10 @@ def max_product_fast(numbers):
               second = j
     return numbers[first] * numbers[second]
 
-if __name__ == '__main__':
-    input_n = int(input())
-    input_numbers = [int(x) for x in input().split()]
-    print(max_product_fast(input_numbers))
+#if __name__ == '__main__':
+#    input_n = int(input())
+#    input_numbers = [int(x) for x in input().split()]
+#   print(max_product_fast(input_numbers))
 
 from random import randint
 def max_prod_stress(N,M):
